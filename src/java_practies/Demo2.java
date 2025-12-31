@@ -3,8 +3,8 @@ package java_practies;
 public class Demo2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		// this is demo class for git hub testing 
 	}
 
 }
